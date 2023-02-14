@@ -9,7 +9,6 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "author": "Kyle Shevlin <kyle.a.shevlin@gmail.com> (https://kyleshevlin.com)",
   "license": "MIT",
   "dependencies": {
     "@emotion/core": "^10.0.28",
